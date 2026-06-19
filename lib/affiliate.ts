@@ -42,6 +42,7 @@ export const affiliateLinks: Record<string, string> = {
   Grammarly: "https://www.grammarly.com",
   QuillBot: "https://quillbot.com",
   Gamma: "https://gamma.app",
+  Tome: "https://tome.app",
   Otter: "https://otter.ai",
   Fireflies: "https://fireflies.ai",
   Ollama: "https://ollama.com",
