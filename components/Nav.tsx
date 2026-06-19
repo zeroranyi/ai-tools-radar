@@ -9,6 +9,9 @@ export function Header() {
           AI&nbsp;Tools&nbsp;<span className="text-emerald-600">Radar</span>
         </Link>
         <nav className="hidden md:flex items-center gap-5 text-sm text-neutral-600">
+          <Link href="/tools" className="font-medium text-emerald-700 hover:text-emerald-800">
+            AI Tools
+          </Link>
           {Object.values(categories).map((c) => (
             <Link key={c.slug} href={`/category/${c.slug}`} className="hover:text-emerald-600">
               {c.title}
@@ -25,6 +28,9 @@ export function Footer() {
     <footer className="mt-20 border-t border-black/10 bg-neutral-50">
       <div className="mx-auto max-w-6xl px-4 py-10 text-sm text-neutral-500">
         <div className="flex flex-wrap gap-x-6 gap-y-2 mb-4">
+          <Link href="/tools" className="hover:text-emerald-600">
+            AI Tools
+          </Link>
           {Object.values(categories).map((c) => (
             <Link key={c.slug} href={`/category/${c.slug}`} className="hover:text-emerald-600">
               {c.title}

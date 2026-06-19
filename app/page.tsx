@@ -26,6 +26,14 @@ export default function Home() {
             </Link>
           ))}
         </div>
+        <div className="mt-6">
+          <Link
+            href="/tools"
+            className="inline-flex items-center rounded-lg bg-emerald-600 px-5 py-2.5 text-sm font-medium text-white hover:bg-emerald-700"
+          >
+            Browse the AI Tools Directory →
+          </Link>
+        </div>
       </section>
 
       <AdSlot slot="home-top" />
