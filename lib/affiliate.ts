@@ -42,6 +42,7 @@ export const affiliateLinks: Record<string, string> = {
   CapCut: "https://www.capcut.com",
   "Opus Clip": "https://www.opus.pro",
   Pictory: "https://pictory.ai",
+  "Canva AI": "https://www.canva.com",
   Grammarly: "https://www.grammarly.com",
   QuillBot: "https://quillbot.com",
   Gamma: "https://gamma.app",
