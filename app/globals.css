@@ -12,15 +12,93 @@
   --font-mono: var(--font-geist-mono);
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
-}
-
 body {
   background: var(--background);
   color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: var(--font-sans), Arial, Helvetica, sans-serif;
+}
+
+/* Article body typography (no Tailwind typography plugin needed) */
+.prose-custom {
+  line-height: 1.75;
+  color: #262626;
+}
+.prose-custom > * + * {
+  margin-top: 1.1rem;
+}
+.prose-custom h2 {
+  font-size: 1.5rem;
+  font-weight: 700;
+  margin-top: 2.5rem;
+  margin-bottom: 0.75rem;
+  scroll-margin-top: 5rem;
+}
+.prose-custom h3 {
+  font-size: 1.2rem;
+  font-weight: 600;
+  margin-top: 1.75rem;
+  margin-bottom: 0.5rem;
+}
+.prose-custom p {
+  margin-top: 1rem;
+}
+.prose-custom a {
+  color: #059669;
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+.prose-custom ul,
+.prose-custom ol {
+  margin-top: 1rem;
+  padding-left: 1.5rem;
+}
+.prose-custom ul {
+  list-style: disc;
+}
+.prose-custom ol {
+  list-style: decimal;
+}
+.prose-custom li {
+  margin-top: 0.4rem;
+}
+.prose-custom table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.5rem 0;
+  font-size: 0.9rem;
+}
+.prose-custom th,
+.prose-custom td {
+  border: 1px solid #e5e5e5;
+  padding: 0.6rem 0.8rem;
+  text-align: left;
+  vertical-align: top;
+}
+.prose-custom th {
+  background: #f0fdf4;
+  font-weight: 600;
+}
+.prose-custom code {
+  background: #f4f4f5;
+  padding: 0.1rem 0.35rem;
+  border-radius: 0.25rem;
+  font-family: var(--font-mono), monospace;
+  font-size: 0.85em;
+}
+.prose-custom pre {
+  background: #18181b;
+  color: #f4f4f5;
+  padding: 1rem;
+  border-radius: 0.5rem;
+  overflow-x: auto;
+}
+.prose-custom pre code {
+  background: transparent;
+  padding: 0;
+}
+.prose-custom blockquote {
+  border-left: 3px solid #10b981;
+  padding-left: 1rem;
+  color: #525252;
+  font-style: italic;
 }
