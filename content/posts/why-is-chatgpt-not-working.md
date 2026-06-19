@@ -8,9 +8,9 @@ featured: true
 keywords:
   - chatgpt not working
   - chatgpt down
-  - chatgpt login problems
+  - chatgpt login
   - chatgpt error
-answer: "If ChatGPT isn't working, first check whether it's a global outage (status.openai.com) versus a problem on your end. The most common fixes: refresh or start a new chat, log out and back in, clear cache or try incognito, switch browser or network, disable conflicting extensions, and wait out 'too many requests' rate limits. If it's a confirmed outage, an alternative like Claude or Gemini will keep you working."
+answer: "If ChatGPT isn't working, first check whether it's a global outage (status.openai.com) versus a problem on your end. To log in, go to chatgpt.com and use your OpenAI, Google, Microsoft or Apple account. The most common fixes: refresh or start a new chat, log out and back in, clear cache or try incognito, switch browser or network, disable conflicting extensions, and wait out 'too many requests' rate limits. If it's a confirmed outage, an alternative like Claude or Gemini will keep you working."
 faq:
   - q: "Is ChatGPT down right now?"
     a: "Check OpenAI's official status page (status.openai.com) and a site like Downdetector. If both show problems, it's a global outage and the fix is to wait — or switch to an alternative like Claude, Gemini or Perplexity until it's back."

@@ -40,11 +40,13 @@ export default function ToolsPage() {
       <JsonLd data={itemListLd} />
 
       <header className="text-center py-6">
-        <h1 className="text-3xl md:text-4xl font-extrabold tracking-tight">AI Tools Directory</h1>
+        <h1 className="text-3xl md:text-4xl font-extrabold tracking-tight">
+          Best AI Tools by Category (2026)
+        </h1>
         <p className="mt-4 max-w-2xl mx-auto text-neutral-600">
-          The AI tools people actually use in 2026, grouped by category. Each links to the
-          official site, and to our honest guide where we have one. Most have a free tier —
-          start there and pay only when you hit a real limit.
+          A directory of the best AI tools people actually use in 2026, grouped by category. Each
+          links to the official site, and to our honest guide where we have one. Most have a free
+          tier — start there and pay only when you hit a real limit.
         </p>
       </header>
 
