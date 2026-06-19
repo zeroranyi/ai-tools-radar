@@ -7,7 +7,7 @@ updated: "2026-06-19"
 keywords:
   - is perplexity pro worth it
   - perplexity pro worth it
-  - perplexity free vs pro
+  - is perplexity pro worth it for students
 answer: "Perplexity Pro (around $20/month) is worth it if you research often and value sourced, cited answers with access to more capable models and higher limits. For occasional lookups, the free version already does the core job well — upgrade when you need deeper research, file analysis, and the best models regularly."
 affiliates:
   - name: "Perplexity Pro"
@@ -22,7 +22,7 @@ faq:
     a: "If you write papers or do regular research, the citations save real time and Pro's deeper limits help. For light use, the free tier is usually enough."
 ---
 
-Perplexity built its reputation on **answers with sources** — every response links back to where it came from. Pro costs around $20/month (check the current price). Here's whether the upgrade is justified.
+Perplexity built its reputation on **answers with sources** — every response links back to where it came from. Pro costs about $20/month (see [Perplexity Pricing Explained](/posts/perplexity-pricing-explained) for the full plan breakdown). Here's whether the upgrade is justified.
 
 ## The free version is already good
 
@@ -42,7 +42,7 @@ Unlike a lot of "free tiers," Perplexity's free version does the core job: ask a
 - Anyone who **uploads documents** to query them
 - People who hit the free tier's advanced-search limits
 
-> **Our take:** Perplexity's killer feature is trust — the citations. If your work depends on being able to *check the source*, Pro's deeper research is worth more than a generic chatbot subscription. If you just ask the occasional question, stay free.
+Perplexity's killer feature is trust — the citations. If your work depends on being able to *check the source*, Pro's deeper research is worth more than a generic chatbot subscription. If you just ask the occasional question, stay free.
 
 ## Perplexity Pro vs ChatGPT Plus
 

@@ -8,7 +8,7 @@ keywords:
   - what is an ai agent
   - ai agent explained
   - ai agents 2026
-  - agentic ai
+  - how do ai agents work
 answer: "An AI agent is a system that uses a language model to take actions toward a goal — not just answer questions. It can plan steps, use tools (search, code, APIs), and act in a loop until the task is done. The difference from a chatbot is autonomy: a chatbot replies, an agent does."
 faq:
   - q: "What is the difference between an AI agent and a chatbot?"

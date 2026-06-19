@@ -9,30 +9,31 @@ keywords:
   - copilot pricing
   - github copilot cost
   - is github copilot free
-answer: "GitHub Copilot offers a free tier with limited usage, an individual paid plan (around $10/month) for full features, and Business/Enterprise plans priced per user for teams with admin controls. Students and many open-source maintainers can get it free. Confirm current numbers on GitHub's official pricing page."
+answer: "As of 2026, GitHub Copilot pricing is: Free (limited monthly usage), Pro (~$10/month) for full individual use, Pro+ (~$39/month) for higher limits and premium models, Business (~$19/user/month) and Enterprise (~$39/user/month) for teams. Students and many open-source maintainers get Pro free. Confirm current numbers on GitHub's official pricing page."
 affiliates:
   - name: "GitHub Copilot"
     best: "In-editor AI coding"
     blurb: "AI autocomplete and chat inside your editor, with free and paid tiers."
 faq:
   - q: "Is GitHub Copilot free?"
-    a: "There's a free tier with limited monthly usage, and Copilot is often free for verified students and many open-source maintainers. Full, unlimited individual use requires the paid plan."
+    a: "There's a free tier with limited monthly completions and chat, and Copilot Pro is often free for verified students and many open-source maintainers. Full, unlimited individual use requires the ~$10/month Pro plan."
   - q: "How much does GitHub Copilot cost?"
-    a: "The individual plan is around $10/month (or a discounted annual rate). Business and Enterprise plans are priced per user with added admin and security features. Confirm current figures on GitHub's pricing page."
+    a: "As of 2026: Pro is about $10/month, Pro+ about $39/month (higher limits, premium models), Business about $19/user/month, and Enterprise about $39/user/month. Confirm current figures on GitHub's pricing page."
   - q: "Is GitHub Copilot worth it for the price?"
-    a: "For developers who code regularly, the individual plan is inexpensive relative to the time saved. Light or hobby coders may be fine on the free tier."
+    a: "For developers who code regularly, the ~$10/month Pro plan is inexpensive relative to the time saved. Light or hobby coders may be fine on the free tier."
 ---
 
-GitHub Copilot's pricing is straightforward once you see the tiers. Here's each one and who it's for. *Confirm live numbers on GitHub's official pricing page — they change.*
+GitHub Copilot's pricing is straightforward once you see the tiers. Here's each one with current figures and who it's for. *Prices are as of 2026 — confirm on GitHub's official pricing page, as they change.*
 
 ## The plans at a glance
 
-| Plan | Roughly | For |
+| Plan | Price (as of 2026) | For |
 | --- | --- | --- |
 | **Free** | $0 | Light use, trying it out |
-| **Pro / Individual** | ~$10/mo | Solo developers, full features |
-| **Business** | Per user | Teams with admin controls |
-| **Enterprise** | Per user (higher) | Large orgs, security & policy |
+| **Pro** | ~$10/mo | Solo developers, full features |
+| **Pro+** | ~$39/mo | Higher limits, premium models |
+| **Business** | ~$19/user/mo | Teams with admin controls |
+| **Enterprise** | ~$39/user/mo | Large orgs, security & policy |
 
 ## Who gets it free
 
@@ -50,8 +51,8 @@ Full Copilot in your editor — autocomplete and chat — at a low monthly cost.
 
 Priced **per user**, adding admin controls, policy management and security features. Costs scale with team size.
 
-> **The honest value call:** at roughly $10/month, the individual plan is one of the cheaper AI subscriptions, and for a working developer it pays for itself in saved time almost immediately. The real decision isn't "is it worth $10" (it usually is if you code daily) — it's whether you'd rather have an in-editor tool like Copilot or a full AI editor like Cursor. Different products, overlapping budgets.
+At roughly $10/month, Copilot Pro is one of the cheaper AI subscriptions, and for a working developer it pays for itself in saved time almost immediately. The real decision usually isn't "is it worth $10" (it is, if you code daily) — it's whether you'd rather have an in-editor tool like Copilot (~$10) or a full AI editor like Cursor (~$20). Different products, overlapping budgets.
 
 ## Bottom line
 
-Copilot is **cheap for individuals (~$10/mo)**, **free** for light use/students/OSS, and **per-user** for teams. Check GitHub's official pricing page for current figures before subscribing.
+Copilot runs ~$10/mo (Pro), ~$39/mo (Pro+), and ~$19–39/user/mo for teams, with a free tier for light use and free Pro for students and OSS maintainers. Check GitHub's official pricing page for current figures before subscribing.

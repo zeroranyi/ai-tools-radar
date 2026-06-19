@@ -43,9 +43,9 @@ So you can measure how related two things are by how close their numbers are —
 
 ## Embeddings + vector databases
 
-Embeddings are stored in a **vector database**, which is built to find the "nearest" (most similar) vectors fast. Together they're the engine behind "chat with your docs" and AI search.
+Embeddings are stored in a [vector database](/posts/what-is-a-vector-database), which is built to find the "nearest" (most similar) vectors fast. Together they're the engine behind "chat with your docs" and AI search — embeddings capture the meaning; the vector database makes searching that meaning fast at scale.
 
-> **The mental model that makes it click:** imagine every piece of text as a point on a giant map, placed so that things meaning the same thing sit near each other. An embedding is just that point's coordinates. Once you picture meaning as *location*, semantic search stops being magic — it's literally "find the nearest points." That single idea explains RAG, recommendations and AI search all at once.
+Here's the mental model that makes it click: imagine every piece of text as a point on a giant map, placed so that things meaning the same thing sit near each other. An embedding is just that point's coordinates. Once you picture meaning as *location*, semantic search stops being magic — it's literally "find the nearest points," and that one idea explains RAG, recommendations and AI search all at once.
 
 ## Bottom line
 
