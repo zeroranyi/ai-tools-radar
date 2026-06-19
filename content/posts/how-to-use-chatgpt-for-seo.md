@@ -14,7 +14,6 @@ affiliates:
   - name: "Surfer SEO"
     best: "Best for on-page optimization"
     blurb: "Pairs with ChatGPT to score and optimize drafts against top-ranking pages."
-    url: "https://example.com/go/surfer"
 faq:
   - q: "Can ChatGPT hurt my SEO?"
     a: "Only if you publish unedited, low-value AI content at scale. Google's spam policies target mass-produced content with no added value. AI-assisted content that is fact-checked and genuinely useful is fine."

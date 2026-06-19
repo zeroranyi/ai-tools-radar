@@ -3,14 +3,14 @@ import path from "node:path";
 import matter from "gray-matter";
 import readingTime from "reading-time";
 import { resolveAffiliateUrl } from "./affiliate";
-import type { CategorySlug } from "./site";
+import { site, type CategorySlug } from "./site";
 
 const POSTS_DIR = path.join(process.cwd(), "content", "posts");
 
 export type AffiliatePick = {
   name: string;
   blurb: string;
-  url: string; // affiliate link
+  url?: string; // optional override; real URL resolved from lib/affiliate.ts by name
   best?: string; // "Best for ..."
 };
 
@@ -22,6 +22,7 @@ export type PostFrontmatter = {
   category: CategorySlug;
   date: string;
   updated?: string;
+  author?: string;
   keywords?: string[];
   /** 40-60 word direct answer rendered first — the GEO citation hook. */
   answer: string;
@@ -31,7 +32,9 @@ export type PostFrontmatter = {
   draft?: boolean;
 };
 
-export type Post = PostFrontmatter & {
+export type Post = Omit<PostFrontmatter, "affiliates"> & {
+  affiliates?: (AffiliatePick & { url: string })[];
+  author: string;
   slug: string;
   content: string;
   readingMinutes: number;
@@ -49,6 +52,7 @@ function readPostFile(fileName: string): Post {
   return {
     ...fm,
     affiliates,
+    author: fm.author ?? site.author.name,
     slug,
     content,
     readingMinutes: Math.max(1, Math.round(readingTime(content).minutes)),

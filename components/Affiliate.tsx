@@ -1,7 +1,7 @@
 import type { AffiliatePick } from "@/lib/posts";
 
 /** Comparison/recommendation table — highest GEO citation rate + affiliate conversion. */
-export function AffiliateTable({ picks }: { picks: AffiliatePick[] }) {
+export function AffiliateTable({ picks }: { picks: (AffiliatePick & { url: string })[] }) {
   if (!picks?.length) return null;
   return (
     <div className="my-8 overflow-hidden rounded-xl border border-neutral-200">

@@ -30,6 +30,9 @@ export function Footer() {
               {c.title}
             </Link>
           ))}
+          <Link href="/about" className="hover:text-emerald-600">
+            About
+          </Link>
         </div>
         <p className="max-w-2xl leading-relaxed">
           {site.name} may earn an affiliate commission when you buy through links on this site.

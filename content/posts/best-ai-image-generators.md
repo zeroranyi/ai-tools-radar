@@ -16,11 +16,9 @@ affiliates:
   - name: "Midjourney"
     best: "Best artistic quality"
     blurb: "The benchmark for aesthetic, stylized images, now with a web app and editing tools."
-    url: "https://example.com/go/midjourney"
   - name: "Adobe Firefly"
     best: "Safest for commercial use"
     blurb: "Trained for commercial safety and integrated directly into Photoshop."
-    url: "https://example.com/go/firefly"
 faq:
   - q: "What is the best free AI image generator?"
     a: "Stable Diffusion and Flux are the best truly free options because they're open and can run locally or through free interfaces. Many paid tools (like ChatGPT's generator and Adobe Firefly) also offer limited free credits."

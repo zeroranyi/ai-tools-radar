@@ -21,6 +21,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
 
   return [
     { url: site.url, lastModified: new Date(), changeFrequency: "daily", priority: 1 },
+    { url: `${site.url}/about`, lastModified: new Date(), changeFrequency: "monthly", priority: 0.4 },
     ...cats,
     ...posts,
   ];

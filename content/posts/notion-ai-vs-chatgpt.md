@@ -15,11 +15,9 @@ affiliates:
   - name: "ChatGPT"
     best: "Best standalone AI assistant"
     blurb: "General writing, coding, research, image generation and voice — with selectable models and web access."
-    url: "https://example.com/go/chatgpt"
   - name: "Notion AI"
     best: "Best inside your workspace"
     blurb: "AI that lives in your notes and databases — summarize meetings, autofill properties, and query your own knowledge base."
-    url: "https://example.com/go/notion"
 faq:
   - q: "Does Notion AI use GPT-4?"
     a: "Notion AI runs on top of several large language models from leading providers and does not expose model selection to users. The exact models can change over time, so treat it as a managed AI layer rather than a specific model you control."

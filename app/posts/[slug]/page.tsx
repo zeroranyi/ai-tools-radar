@@ -59,7 +59,7 @@ export default async function PostPage({
     description: post.description,
     datePublished: post.date,
     dateModified: post.updated ?? post.date,
-    author: { "@type": "Organization", name: site.name },
+    author: { "@type": "Person", name: post.author, url: site.author.url },
     publisher: { "@type": "Organization", name: site.name },
     mainEntityOfPage: url,
   };
@@ -104,7 +104,11 @@ export default async function PostPage({
         {post.title}
       </h1>
       <div className="mt-3 text-sm text-neutral-400">
-        Updated {new Date(post.updated ?? post.date).toLocaleDateString("en-US", {
+        By{" "}
+        <Link href="/about" className="text-neutral-500 hover:text-emerald-600 font-medium">
+          {post.author}
+        </Link>{" "}
+        · Updated {new Date(post.updated ?? post.date).toLocaleDateString("en-US", {
           year: "numeric",
           month: "long",
           day: "numeric",

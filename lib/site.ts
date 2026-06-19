@@ -24,6 +24,12 @@ export const site = {
   twitter: "@aitoolsradar",
   // Replace with your real AdSense client id once approved (e.g. ca-pub-XXXXXXXX)
   adsenseClient: process.env.NEXT_PUBLIC_ADSENSE_CLIENT || "",
+  author: {
+    name: "Jim Green",
+    role: "Writer & AI tools analyst",
+    bio: "Jim Green writes about AI tools at AI Tools Radar, comparing assistants, generators and SaaS so readers can pick the right one without the hype.",
+    url: `${SITE_URL}/about`,
+  },
 } as const;
 
 export const categories = {
