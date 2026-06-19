@@ -39,6 +39,9 @@ export const affiliateLinks: Record<string, string> = {
   Otter: "https://otter.ai",
   Fireflies: "https://fireflies.ai",
   Ollama: "https://ollama.com",
+  "LM Studio": "https://lmstudio.ai",
+  Ideogram: "https://ideogram.ai",
+  Leonardo: "https://leonardo.ai",
   Descript: "https://www.descript.com",
 };
 
