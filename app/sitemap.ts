@@ -2,6 +2,8 @@ import type { MetadataRoute } from "next";
 import { getAllPosts } from "@/lib/posts";
 import { categories, site } from "@/lib/site";
 
+export const dynamic = "force-static";
+
 export default function sitemap(): MetadataRoute.Sitemap {
   const posts = getAllPosts().map((p) => ({
     url: `${site.url}/posts/${p.slug}`,
