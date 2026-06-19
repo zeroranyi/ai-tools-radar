@@ -144,3 +144,36 @@
 - 红海大词（标 H 的 #42 #49 #51 #52）放到站点有权重后再做。
 - 标 Timely 的每季度刷新标题年份 + 数据。
 - 每篇必过 SPEC 第 4 章的多轮质检与质量底线硬指标。
+
+---
+
+# 扩展选题：补至 100 篇（正反 agent 严格筛选，混合偏长尾）
+
+> 方向：~80% 长尾（is-worth-it / pricing / alternative / best-for / vs / how-to）+ ~20% 品牌中词。
+> 反方红线（务必遵守）：**一词一 URL 防内部蚕食** · 每篇 ≥1 个独家观点/表/踩坑 · 轮换 3-4 种结构模板 · 定价标来源+日期 · **分批发布**（先到 ~15 篇观察收录，再每周 12-18 篇，6-7 周铺满）· YMYL 题（法律/医疗/赚钱）加免责声明且后置。
+
+## A. Reviews & Buying 评测选购（最高变现，优先开工）
+`is [tool] worth it` / `[tool] pricing explained` / `[tool] alternatives` / `[tool] review`
+- Is ChatGPT Plus Worth It · Is Cursor Worth It · Is Perplexity Pro Worth It · Is Claude Pro Worth It · Is Midjourney Worth It
+- ChatGPT Pricing Explained · Cursor Pricing · Perplexity Pricing · ElevenLabs Pricing · Midjourney Pricing · GitHub Copilot Pricing
+- Best ChatGPT Alternatives · Best Cursor Alternatives · Best Midjourney Alternatives · Best Jasper Alternatives · Best Perplexity Alternatives · Free ChatGPT Alternatives (No Login)
+- Jasper AI Review · Synthesia Review · Copy.ai Review · Runway Free Trial
+
+## B. Best-for 场景榜单（长尾高变现）
+`best ai for [人群/场景]`
+- Students · Small Business · AI Coding Assistants · Lawyers · Teachers · Customer Service · YouTubers · Real Estate · Voice/Podcasts · Resume · Local LLMs (free) · AI Agents · Free Tools (no credit card) · E-commerce · Side Hustles · Social Media · Healthcare · Note-Taking Apps
+
+## C. Comparison 对比（承接热门工具名流量）
+`[A] vs [B] for [场景]`
+- DeepSeek vs ChatGPT (coding) · Grok vs ChatGPT · Cursor vs GitHub Copilot · Windsurf vs Cursor · Perplexity vs Google · Perplexity vs ChatGPT · Sora vs Runway vs Veo · Midjourney vs DALL-E (marketing) · ElevenLabs vs Murf · Claude vs ChatGPT (long-form) · Jasper vs Copy.ai · Gemini vs ChatGPT (Workspace) · Suno vs Udio · HeyGen vs Synthesia · Ollama vs LM Studio · Descript vs CapCut · Zapier AI vs Make · Notion AI vs Obsidian · Gamma vs Tome
+
+## D. How-To 教程
+`how to [任务] with [tool]`
+- Build a RAG Chatbot No-Code · Use Cursor AI · Run a Local LLM · Make AI Videos with Sora · Clone Your Voice (ElevenLabs) · Use Perplexity for Research · Build an AI Agent No-Code · ChatGPT Resume · Automate Your Job with AI · Use Claude for Coding · Write a Blog Post with AI · Midjourney Product Photos · Build a Website Chatbot · AI Customer Support · Create AI Avatars (HeyGen) · Gemini in Google Sheets · Set Up Ollama · Summarize PDFs with AI · Use DeepSeek API Free
+
+## E. Definitions 定义（GEO 被引用主战场，每篇须有独家观点/数据）
+`what is [概念]`
+- AI Agent · Vector Database · LLM · Agentic AI · Fine-Tuning vs RAG · Token in AI · MCP (Model Context Protocol) · AI Wrapper App · Vibe Coding · Multimodal AI · Embedding · Context Window · Chain-of-Thought · AI Hallucination · Open-Source AI
+
+**已写（勿重复）**：Claude vs ChatGPT vs Gemini · What is RAG · How to use ChatGPT for SEO · AI search statistics · Notion AI vs ChatGPT · Best AI writing tools · Best AI image generators · What is GEO · What is prompt engineering · 50 ChatGPT prompts for marketing。
+

@@ -38,6 +38,11 @@ export const categories = {
     title: "Comparisons",
     description: "Side-by-side breakdowns of the top AI tools so you can pick the right one fast.",
   },
+  reviews: {
+    slug: "reviews",
+    title: "Reviews & Buying",
+    description: "Is it worth it? Honest reviews, pricing breakdowns, alternatives and buying guides for AI tools.",
+  },
   "how-to": {
     slug: "how-to",
     title: "How-To Guides",
