@@ -2,6 +2,7 @@ import fs from "node:fs";
 import path from "node:path";
 import matter from "gray-matter";
 import readingTime from "reading-time";
+import { resolveAffiliateUrl } from "./affiliate";
 import type { CategorySlug } from "./site";
 
 const POSTS_DIR = path.join(process.cwd(), "content", "posts");
@@ -41,8 +42,13 @@ function readPostFile(fileName: string): Post {
   const raw = fs.readFileSync(path.join(POSTS_DIR, fileName), "utf8");
   const { data, content } = matter(raw);
   const fm = data as PostFrontmatter;
+  const affiliates = fm.affiliates?.map((a) => ({
+    ...a,
+    url: resolveAffiliateUrl(a.name, a.url),
+  }));
   return {
     ...fm,
+    affiliates,
     slug,
     content,
     readingMinutes: Math.max(1, Math.round(readingTime(content).minutes)),
