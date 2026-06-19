@@ -55,7 +55,7 @@ Jasper and Copy.ai are both built for marketing copy, but they target different 
 - You want **affordable**, quick copy
 - You don't need heavy brand-voice machinery
 
-> **The question both tools dodge:** do you need a dedicated AI writer at all? If you publish marketing content *regularly and at scale with brand rules*, yes — Jasper or Copy.ai earns its place. But if you write copy occasionally, a general assistant like ChatGPT or Claude does 90% of this for less. Don't pay for marketing-specific tooling you won't fully use.
+Do you need a dedicated AI writer at all? If you publish marketing content *regularly and at scale with brand rules*, yes — Jasper or Copy.ai earns its place. But if you write copy occasionally, a general assistant like ChatGPT or Claude does 90% of this for less. Don't pay for marketing-specific tooling you won't fully use.
 
 ## How to choose
 

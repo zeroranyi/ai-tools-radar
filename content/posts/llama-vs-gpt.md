@@ -58,7 +58,7 @@ So "Llama vs GPT for self-hosting" is really "self-host an open model vs use a m
 - Volume is modest and per-token cost is fine
 - You'd rather not manage servers
 
-> **The honest framing:** this isn't "which model is smarter" — it's "do you want to own the stack or rent it?" Self-hosting Llama trades convenience for privacy, control and at-scale cost savings. GPT's API trades control for the easiest path to top-tier capability. Pick based on your constraints (privacy, volume, ops capacity), not benchmark bragging rights.
+This isn't "which model is smarter" — it's "do you want to own the stack or rent it?" Self-hosting Llama trades convenience for privacy, control and at-scale cost savings. GPT's API trades control for the easiest path to top-tier capability. Pick based on your constraints (privacy, volume, ops capacity), not benchmark bragging rights.
 
 ## Bottom line
 

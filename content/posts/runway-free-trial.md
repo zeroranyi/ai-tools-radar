@@ -47,7 +47,7 @@ Runway is a leading AI video tool, and its free plan lets you try before you buy
 | Resolution/length | Capped | Higher |
 | Best for | Testing | Real projects |
 
-> **Set your expectations right:** AI video burns credits far faster than text or images, so a free plan that sounds generous can evaporate in a handful of generations. Use the free tier for exactly what it's good at — *deciding whether Runway fits your workflow* — not as a free production tool. If video is core to your work, budget for a paid plan from the start; if it's occasional, the free credits plus careful use may stretch.
+AI video burns credits far faster than text or images, so a free plan that sounds generous can evaporate in a handful of generations. Use the free tier for exactly what it's good at — *deciding whether Runway fits your workflow* — not as a free production tool. If video is core to your work, budget for a paid plan from the start; if it's occasional, the free credits plus careful use may stretch.
 
 ## Bottom line
 

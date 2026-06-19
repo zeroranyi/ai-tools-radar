@@ -50,7 +50,7 @@ Murf leans into a **production studio** experience: a large voice library and fe
 - **Commercial rights** — essential if you monetize
 - **Languages** — if you publish in more than one
 
-> **The thing creators learn the hard way:** test the voice on *your actual script* before subscribing, not just the demo reel. Demos are cherry-picked; your content has names, pauses, and jargon that expose weaknesses. Generate a real 60-second sample of your show in each tool — your ears will pick the winner faster than any feature list.
+Test the voice on *your actual script* before subscribing, not just the demo reel. Demos are cherry-picked; your content has names, pauses, and jargon that expose weaknesses. Generate a real 60-second sample of your show in each tool — your ears will pick the winner faster than any feature list.
 
 ## How to choose
 

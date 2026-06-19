@@ -54,7 +54,7 @@ Perplexity and ChatGPT get pitted against each other, but they're really built f
 - You want **images, voice or file analysis**
 - You need an **all-round** assistant for varied tasks
 
-> **Our take:** this is the rare "use both" that's actually true. They barely overlap — Perplexity is your librarian, ChatGPT is your studio. Heavy users open Perplexity to research a topic, then switch to ChatGPT to turn the findings into something. Forcing a single winner means giving up half the value.
+This is the rare "use both" that's actually true. They barely overlap — Perplexity is your librarian, ChatGPT is your studio. Heavy users open Perplexity to research a topic, then switch to ChatGPT to turn the findings into something. Forcing a single winner means giving up half the value.
 
 ## How to decide
 

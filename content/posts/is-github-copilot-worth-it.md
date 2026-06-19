@@ -49,7 +49,7 @@ GitHub Copilot is cheap as AI tools go, but "cheap" isn't "worth it" if you won'
 | Switch editors | No | Yes |
 | Price | ~$10/mo | Higher tiers |
 
-> **The honest verdict:** for the price, Copilot is close to a no-brainer *if you code daily* — the autocomplete alone saves more than $10 of time a month. The only real reason to hesitate isn't the money, it's whether you'd rather have a full AI editor (Cursor) that does multi-file agentic work. Copilot = cheap, low-friction upgrade to your current setup; Cursor = bigger change, bigger capability.
+For the price, Copilot is close to a no-brainer *if you code daily* — the autocomplete alone saves more than $10 of time a month. The only real reason to hesitate isn't the money, it's whether you'd rather have a full AI editor (Cursor) that does multi-file agentic work. Copilot = cheap, low-friction upgrade to your current setup; Cursor = bigger change, bigger capability.
 
 ## Bottom line
 

@@ -53,7 +53,7 @@ Generate text — product descriptions, email snippets, categories — directly 
 | Cleaning messy data | Large/complex datasets |
 | Summaries & categorization | Sensitive data policies |
 
-> **The practical win:** the killer use isn't fancy analysis — it's **formulas**. Most people lose time googling spreadsheet syntax. Describing the formula in plain English and getting it generated in place removes that friction entirely. Start there; it's the feature you'll use daily. Just always sanity-check the output against a couple of rows you can verify by hand.
+The killer use isn't fancy analysis — it's **formulas**. Most people lose time googling spreadsheet syntax. Describing the formula in plain English and getting it generated in place removes that friction entirely. Start there; it's the feature you'll use daily. Just always sanity-check the output against a couple of rows you can verify by hand.
 
 ## Bottom line
 

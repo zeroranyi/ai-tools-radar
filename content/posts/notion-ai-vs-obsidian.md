@@ -56,7 +56,7 @@ Notion AI and Obsidian represent two philosophies of note-taking: a polished clo
 - You love **customization** via plugins
 - You prefer a **local-first**, future-proof Markdown vault
 
-> **The deciding value:** convenience vs ownership. Notion is the easier, more collaborative experience with AI baked in — but your notes live in someone else's cloud. Obsidian gives you a private vault of plain files that will outlive any company, plus AI if you set it up — at the cost of doing more yourself. Knowledge workers who value permanence and privacy lean Obsidian; teams who want frictionless AI lean Notion.
+Convenience vs ownership. Notion is the easier, more collaborative experience with AI baked in — but your notes live in someone else's cloud. Obsidian gives you a private vault of plain files that will outlive any company, plus AI if you set it up — at the cost of doing more yourself. Knowledge workers who value permanence and privacy lean Obsidian; teams who want frictionless AI lean Notion.
 
 ## How to choose
 

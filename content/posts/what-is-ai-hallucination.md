@@ -44,7 +44,7 @@ Language models predict **likely text**, not **verified facts**. When the model 
 4. **Invite uncertainty** — tell it to say when it's not sure.
 5. **Verify high-stakes claims** yourself, always.
 
-> **The reframe that protects you:** don't think of hallucination as a rare bug — think of it as the *default risk* of a system that predicts text. Once you treat every factual claim as "probably right, worth checking," you get the speed of AI without getting burned. The people who get embarrassed by AI are the ones who assumed it was a fact engine.
+Don't think of hallucination as a rare bug — think of it as the *default risk* of a system that predicts text. Once you treat every factual claim as "probably right, worth checking," you get the speed of AI without getting burned. The people who get embarrassed by AI are the ones who assumed it was a fact engine.
 
 ## Bottom line
 

@@ -42,7 +42,7 @@ Stay free if:
 - You don't need the strongest model or image generation
 - You haven't hit a usage limit yet
 
-> **Our take:** don't subscribe "just in case." The clearest signal you're ready for Plus is frustration — when the free limits start interrupting real work, the $20 pays for itself immediately.
+Don't subscribe "just in case." The clearest signal you're ready for Plus is frustration — when the free limits start interrupting real work, the $20 pays for itself immediately.
 
 ## What you actually get for $20
 

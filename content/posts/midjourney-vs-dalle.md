@@ -56,7 +56,7 @@ For marketing visuals, the Midjourney vs DALL·E choice comes down to **aestheti
 - You need **readable text** in graphics (posters, ads)
 - You value prompt-following over pure artistry
 
-> **The marketing-specific tip:** if your graphics need *words* — sale banners, quote cards, ad creative with text — DALL·E (or Ideogram) saves you from the broken-text problem most generators have. If you're after a distinctive *visual identity*, Midjourney's aesthetic edge is worth the extra workflow. And whichever you pick, confirm the commercial-use license before putting images on paid campaigns.
+If your graphics need *words* — sale banners, quote cards, ad creative with text — DALL·E (or Ideogram) saves you from the broken-text problem most generators have. If you're after a distinctive *visual identity*, Midjourney's aesthetic edge is worth the extra workflow. And whichever you pick, confirm the commercial-use license before putting images on paid campaigns.
 
 ## How to choose
 

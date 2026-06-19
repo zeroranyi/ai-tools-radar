@@ -53,7 +53,7 @@ Use these to **understand concepts, get feedback, and brainstorm structure** —
 
 AI note-takers transcribe and summarize lectures so you can actually pay attention instead of scrambling to write. Great for revision later.
 
-> **The honest rule on cheating:** AI is a fantastic tutor and a terrible ghostwriter. Use it to learn, explain, and check — never to submit work you didn't produce. Most schools now detect and penalize AI-written submissions, and you learn nothing. Check your institution's policy before using AI on graded work.
+AI is a fantastic tutor and a terrible ghostwriter. Use it to learn, explain, and check — never to submit work you didn't produce. Most schools now detect and penalize AI-written submissions, and you learn nothing. Check your institution's policy before using AI on graded work.
 
 ## A simple, safe student stack
 

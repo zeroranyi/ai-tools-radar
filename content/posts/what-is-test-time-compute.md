@@ -45,7 +45,7 @@ For hard problems — math, logic, coding, multi-step reasoning — letting the 
 - **Worth it:** complex math, logic, coding, multi-step analysis
 - **Not worth it:** simple lookups, quick rephrasing, casual chat
 
-> **The practical takeaway:** "smarter" isn't free or always better. Reasoning models that spend more test-time compute are genuinely better at hard problems — but on simple questions they just waste time and money. That's why modern tools let you pick a *fast* model or a *thinking* model. The skill is matching the mode to the task: don't pay for deep reasoning to rephrase an email, and don't use a snap model for a tricky proof.
+"smarter" isn't free or always better. Reasoning models that spend more test-time compute are genuinely better at hard problems — but on simple questions they just waste time and money. That's why modern tools let you pick a *fast* model or a *thinking* model. The skill is matching the mode to the task: don't pay for deep reasoning to rephrase an email, and don't use a snap model for a tricky proof.
 
 ## Bottom line
 

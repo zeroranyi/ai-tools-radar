@@ -44,7 +44,7 @@ An **AI wrapper** is an app built **on top of an existing model** (GPT, Claude, 
 
 It depends entirely on **value added**. A wrapper that deeply integrates AI into a specific task — with the right data, tools and UX — can save real time and be well worth paying for. One that just relays the model with a system prompt offers little you couldn't get cheaper by using the model directly.
 
-> **The test that cuts through the debate:** ask "could I get 90% of this by just using ChatGPT/Claude myself in 10 minutes?" If yes, it's a thin wrapper and probably not worth a subscription. If no — because it integrates your data, automates a workflow, or solves a domain problem you couldn't easily prompt your way to — then "it's a wrapper" is irrelevant; it's a real product. Judge value, not architecture.
+Ask "could I get 90% of this by just using ChatGPT/Claude myself in 10 minutes?" If yes, it's a thin wrapper and probably not worth a subscription. If no — because it integrates your data, automates a workflow, or solves a domain problem you couldn't easily prompt your way to — then "it's a wrapper" is irrelevant; it's a real product. Judge value, not architecture.
 
 ## Bottom line
 

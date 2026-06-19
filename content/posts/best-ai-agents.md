@@ -52,7 +52,7 @@ Agentic editing in tools like **Cursor** can make multi-file changes from a desc
 
 **Zapier and Make** let AI steps drive multi-app automations. For well-defined workflows, these are reliable and practical.
 
-> **The hype filter:** the agents that work in 2026 are the ones *embedded in tools doing scoped jobs* — code edits, research runs, defined automations. The ones that disappoint are the standalone "give it any goal and walk away" agents, because errors compound across steps and unsupervised autonomy still fails. So start with agentic features in tools you already use, keep tasks narrow, and review output. You'll get real value and skip the disappointment that comes from believing the autonomy demos.
+The agents that work in 2026 are the ones *embedded in tools doing scoped jobs* — code edits, research runs, defined automations. The ones that disappoint are the standalone "give it any goal and walk away" agents, because errors compound across steps and unsupervised autonomy still fails. So start with agentic features in tools you already use, keep tasks narrow, and review output. You'll get real value and skip the disappointment that comes from believing the autonomy demos.
 
 ## How to start
 

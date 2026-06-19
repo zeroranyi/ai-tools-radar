@@ -49,7 +49,7 @@ Before MCP, connecting an AI to a tool (your database, an app, a file system) me
 | Hard to extend agents | Plug-and-play tools |
 | Vendor lock-in risk | Open, shared standard |
 
-> **Why this is quietly a big deal:** the bottleneck for useful AI agents was never just the model — it was *connecting* the model to real tools and data reliably. MCP attacks exactly that. By standardizing the plumbing, it shifts effort from "wire up each integration" to "build the tool once," which is how ecosystems explode. If agents become genuinely useful day-to-day, MCP-style standards are a big part of why.
+The bottleneck for useful AI agents was never just the model — it was *connecting* the model to real tools and data reliably. MCP attacks exactly that. By standardizing the plumbing, it shifts effort from "wire up each integration" to "build the tool once," which is how ecosystems explode. If agents become genuinely useful day-to-day, MCP-style standards are a big part of why.
 
 ## Bottom line
 

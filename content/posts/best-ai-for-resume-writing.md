@@ -49,7 +49,7 @@ AI can help you **mirror keywords** and structure content so applicant tracking 
 
 Draft a tailored cover letter in seconds, then **add specifics** only you know — why this company, a real story, a concrete result.
 
-> **The mistake that gets resumes rejected:** submitting obviously AI-written, generic text. Recruiters read hundreds of these and spot the bland, templated tone instantly. The winning approach is AI for the *heavy lifting* — tailoring, structure, first drafts — followed by **your own edit** that injects real, specific achievements in your voice. AI gets you 80% there fast; the human 20% is what gets the interview. And never let AI invent experience you don't have.
+Submitting obviously AI-written, generic text. Recruiters read hundreds of these and spot the bland, templated tone instantly. The winning approach is AI for the *heavy lifting* — tailoring, structure, first drafts — followed by **your own edit** that injects real, specific achievements in your voice. AI gets you 80% there fast; the human 20% is what gets the interview. And never let AI invent experience you don't have.
 
 ## How to use it
 

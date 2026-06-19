@@ -45,7 +45,7 @@ Ask follow-up questions in the same thread. Perplexity keeps context, so you can
 
 For ongoing projects, group related research so you can return to it and build on previous threads.
 
-> **The mistake that wastes Perplexity's superpower:** copying the summary and moving on without opening a single source. The summary can still contain errors — the *citations* are your safety net and your path to depth. If you only read the answer, you've turned a research engine back into a guessable chatbot.
+Copying the summary and moving on without opening a single source. The summary can still contain errors — the *citations* are your safety net and your path to depth. If you only read the answer, you've turned a research engine back into a guessable chatbot.
 
 ## Free vs Pro for research
 

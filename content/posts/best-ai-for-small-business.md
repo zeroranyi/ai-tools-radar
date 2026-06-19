@@ -57,7 +57,7 @@ If you produce regular marketing content, these add templates and brand voice. I
 
 AI can handle FAQs and triage, freeing you for the conversations that need a human. Always keep an easy path to a real person.
 
-> **The small-business trap:** subscribing to five AI tools because each looks useful, then paying for features you never touch. The disciplined move is to run *one general assistant* for a month, notice where it genuinely falls short, and add a specialized tool only for that specific gap. Most owners never need more than two or three.
+Subscribing to five AI tools because each looks useful, then paying for features you never touch. The disciplined move is to run *one general assistant* for a month, notice where it genuinely falls short, and add a specialized tool only for that specific gap. Most owners never need more than two or three.
 
 ## How to build your stack
 

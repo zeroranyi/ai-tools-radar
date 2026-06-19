@@ -56,7 +56,7 @@ Request the reasoning alongside the code. You'll catch flawed assumptions early 
 | Reasoning, planning, debugging | Hands-on multi-file edits |
 | Understanding big code | Inline, in-context changes |
 
-> **The workflow that works:** think with Claude, build with an editor. Use Claude to reason through the hard problem, plan the approach, and debug the gnarly bug — then implement in an AI editor like Cursor where edits land directly in your files. Treating Claude as your "senior engineer to talk to" and the editor as your "hands" gets the best of both. And always review and test — Claude is excellent but not infallible.
+Think with Claude, build with an editor. Use Claude to reason through the hard problem, plan the approach, and debug the gnarly bug — then implement in an AI editor like Cursor where edits land directly in your files. Treating Claude as your "senior engineer to talk to" and the editor as your "hands" gets the best of both. And always review and test — Claude is excellent but not infallible.
 
 ## Bottom line
 

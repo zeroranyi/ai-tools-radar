@@ -55,7 +55,7 @@ The **oldest content drops off** (or must be summarized to fit). This is exactly
 - Use **RAG** to fetch only the relevant chunks of big documents
 - Start a **fresh chat** when an old one gets bloated and confused
 
-> **The practical insight:** a bigger context window isn't always the answer — *relevant* context beats *more* context. Models can lose track of details buried in a huge window, so feeding only what matters (via RAG or tight prompts) often beats dumping everything in. People chase ever-larger windows when the real skill is curating what goes in them.
+A bigger context window isn't always the answer — *relevant* context beats *more* context. Models can lose track of details buried in a huge window, so feeding only what matters (via RAG or tight prompts) often beats dumping everything in. People chase ever-larger windows when the real skill is curating what goes in them.
 
 ## Bottom line
 

@@ -51,7 +51,7 @@ AI video took a huge leap, and three names lead the conversation: Sora, Runway a
 - You're a **filmmaker or marketer** refining shots
 - You want more than one-shot generation
 
-> **The workflow pros actually use:** generate with whichever model gives the best raw clip (often Sora or Veo), then bring it into a tool like Runway to edit, extend and control the final result. Treating it as "one tool to rule them all" misses that *generation* and *production* are different jobs. If you only want a quick clip, a generator is enough; if you're crafting something, you'll want Runway's controls.
+Generate with whichever model gives the best raw clip (often Sora or Veo), then bring it into a tool like Runway to edit, extend and control the final result. Treating it as "one tool to rule them all" misses that *generation* and *production* are different jobs. If you only want a quick clip, a generator is enough; if you're crafting something, you'll want Runway's controls.
 
 ## How to choose
 

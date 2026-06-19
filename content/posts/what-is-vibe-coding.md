@@ -46,7 +46,7 @@ faq:
 | Learning & experiments | Security-sensitive apps |
 | Personal tools | Code others depend on |
 
-> **The honest take:** vibe coding is genuinely empowering — it lets ideas become working software without years of training. But "I built it and I don't know how it works" is fine for a weekend prototype and dangerous for anything real. The sweet spot is using it to move fast *while* building enough understanding to review what the AI gives you. Treat AI code like a draft from a talented junior dev: useful, fast, and in need of a check before it ships.
+Vibe coding is genuinely empowering — it lets ideas become working software without years of training. But "I built it and I don't know how it works" is fine for a weekend prototype and dangerous for anything real. The sweet spot is using it to move fast *while* building enough understanding to review what the AI gives you. Treat AI code like a draft from a talented junior dev: useful, fast, and in need of a check before it ships.
 
 ## Bottom line
 

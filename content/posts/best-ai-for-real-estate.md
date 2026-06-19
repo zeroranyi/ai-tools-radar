@@ -24,18 +24,20 @@ faq:
     a: "Yes, and it's one of the biggest time-savers. Give the AI the property details and it drafts compelling descriptions you then fact-check and personalize. Never let it invent features the property doesn't have."
   - q: "Should real estate agents rely on AI for advice to clients?"
     a: "No. Use AI for writing, marketing and admin. Pricing strategy, negotiation and client advice involve judgment, local knowledge and trust that should stay with the agent."
+  - q: "Are there real-estate-specific AI tools?"
+    a: "Yes. Lofty (formerly Chime) and BoldTrail (kvCORE) are CRMs with built-in AI for lead follow-up; Ylopo focuses on AI lead nurture; Saleswise and listing-copy tools generate descriptions. Many agents pair one of these with a general assistant like ChatGPT."
 ---
 
-Real estate runs on writing and follow-up — exactly what AI is good at. Used well, it frees agents to do the human part: meeting clients and closing deals. Here's the practical stack.
+Real estate runs on writing and follow-up — exactly what AI is good at. Used well, it frees agents to do the human part: meeting clients and closing deals. Here's the practical stack, including the real-estate-specific platforms.
 
 ## The agent stack by task
 
-| Task | Best AI | Note |
+| Task | Tools | Note |
 | --- | --- | --- |
 | Listing descriptions | ChatGPT / Claude | Biggest time-saver |
-| Marketing & social | ChatGPT + image tools | Posts, flyers, captions |
+| Marketing & social | ChatGPT + Canva | Posts, flyers, captions |
 | Listing visuals | Adobe Firefly | Commercial-safe images |
-| Lead follow-up | AI in your CRM | Drafts and reminders |
+| Lead follow-up & nurture | Lofty, BoldTrail (kvCORE), Ylopo | CRM AI drafts and reminders |
 | Admin & email | ChatGPT / Claude | Summaries, replies |
 
 ## Listing descriptions (start here)
@@ -46,16 +48,16 @@ Feed the AI the property details and it drafts a polished description in seconds
 
 Generate **social posts, email campaigns and flyer copy** with a general assistant, and use **commercial-safe image tools** like Adobe Firefly for graphics (mind licensing for any property photos).
 
-## Lead follow-up
+## Lead follow-up and nurture
 
-AI inside your CRM can **draft follow-ups and reminders** so leads don't go cold — you review and send.
+This is where real-estate-specific platforms earn their keep: **Lofty** (formerly Chime) and **BoldTrail** (kvCORE) bundle AI lead follow-up into the CRM, and **Ylopo** specializes in AI nurture that keeps leads warm. The AI drafts follow-ups and reminders; you review and send.
 
-> **The line that protects your business:** automate the *writing and admin*, never the *judgment and relationship*. Pricing strategy, negotiation, and advising a client through the biggest purchase of their life require local knowledge and trust no model has. Agents who use AI to clear the busywork win more time for clients; agents who let AI advise clients lose the very thing that makes them valuable. And always fact-check AI output — a made-up "feature" in a listing is a real liability.
+Automate the *writing and admin*, never the *judgment and relationship*. Pricing strategy, negotiation, and advising a client through the biggest purchase of their life require local knowledge and trust no model has. Agents who use AI to clear the busywork win more time for clients; agents who let AI advise clients lose the very thing that makes them valuable. And always fact-check AI output — a made-up "feature" in a listing is a real liability.
 
 ## How to start
 
 1. Use **ChatGPT/Claude** for listings, emails and social (free tier works).
-2. Add **image tools** for visuals.
-3. Lean on **CRM AI** for follow-up.
+2. Add **Adobe Firefly/Canva** for visuals.
+3. Lean on a real-estate CRM (**Lofty, BoldTrail, Ylopo**) for AI lead follow-up.
 
 Confirm current pricing on each official site.

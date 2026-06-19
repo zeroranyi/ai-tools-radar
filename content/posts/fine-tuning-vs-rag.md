@@ -52,7 +52,7 @@ RAG is about **what it knows**. Fine-tuning is about **how it acts**.
 | Reduces hallucination | Yes (grounding) | Not directly |
 | Best for | Current/specific facts | Style, format, behavior |
 
-> **The decision rule that saves projects:** if your problem is "the AI doesn't *know* X," reach for RAG. If your problem is "the AI doesn't *behave* the way I want," consider fine-tuning. Most teams reach for fine-tuning when they actually needed RAG — they wanted current knowledge, not new behavior. Start with RAG (it's cheaper and easier), and fine-tune only when behavior is the real gap.
+If your problem is "the AI doesn't *know* X," reach for RAG. If your problem is "the AI doesn't *behave* the way I want," consider fine-tuning. Most teams reach for fine-tuning when they actually needed RAG — they wanted current knowledge, not new behavior. Start with RAG (it's cheaper and easier), and fine-tune only when behavior is the real gap.
 
 ## Bottom line
 

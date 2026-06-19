@@ -55,7 +55,7 @@ ElevenLabs and Murf are two leading AI voice tools that lean in different direct
 - You build **structured projects** with many voices
 - Workflow polish matters more than topping realism
 
-> **The test that settles it:** generate the *same script* in both and listen on the device your audience uses. ElevenLabs usually wins the "does this sound human?" test; Murf often wins the "is this pleasant to build in?" test. Your priority — realism vs production comfort — picks the winner, not the spec sheet.
+Generate the *same script* in both and listen on the device your audience uses. ElevenLabs usually wins the "does this sound human?" test; Murf often wins the "is this pleasant to build in?" test. Your priority — realism vs production comfort — picks the winner, not the spec sheet.
 
 ## How to choose
 

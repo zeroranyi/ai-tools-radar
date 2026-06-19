@@ -53,7 +53,7 @@ When you have **your own documents** to analyze, Claude's long context and caref
 
 If you live in Google Workspace, Gemini ties research into the apps you already use.
 
-> **Our take:** most people who look for a Perplexity alternative actually want *one tool that does research AND the next step*. That's ChatGPT. Perplexity's purity (answer + sources) is a strength for pure research, but if you find yourself copying its answers into another tool to do something with them, a do-it-all assistant will serve you better.
+Most people who look for a Perplexity alternative actually want *one tool that does research AND the next step*. That's ChatGPT. Perplexity's purity (answer + sources) is a strength for pure research, but if you find yourself copying its answers into another tool to do something with them, a do-it-all assistant will serve you better.
 
 ## How to choose
 

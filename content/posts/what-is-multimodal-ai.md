@@ -44,7 +44,7 @@ Most leading assistants in 2026 — ChatGPT, Gemini, Claude — are multimodal t
 | Output is text | Output can be text, image, audio |
 | Limited to typed input | Handles how people actually communicate |
 
-> **The shift worth noticing:** multimodal isn't just a feature — it removes the translation step. Before, you had to *describe* the broken chart, the error screenshot, the room you wanted redesigned. Now you just show it. That collapses friction for non-technical users especially, which is why multimodal is quietly one of the biggest usability leaps in AI, even if it gets less hype than "agents."
+Multimodal isn't just a feature — it removes the translation step. Before, you had to *describe* the broken chart, the error screenshot, the room you wanted redesigned. Now you just show it. That collapses friction for non-technical users especially, which is why multimodal is quietly one of the biggest usability leaps in AI, even if it gets less hype than "agents."
 
 ## Bottom line
 

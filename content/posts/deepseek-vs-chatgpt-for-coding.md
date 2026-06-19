@@ -54,7 +54,7 @@ DeepSeek shook up the AI world by delivering strong performance at a fraction of
 - A larger **ecosystem** (extensions, integrations, features)
 - Better when coding is just one of many things you do with it
 
-> **Our take:** this isn't a quality blowout — it's a value decision. If you're cost-sensitive or running lots of API calls, DeepSeek's economics are genuinely disruptive. If you want one polished tool that does everything well, ChatGPT is the safer bet.
+This isn't a quality blowout — it's a value decision. If you're cost-sensitive or running lots of API calls, DeepSeek's economics are genuinely disruptive. If you want one polished tool that does everything well, ChatGPT is the safer bet.
 
 ## How to decide
 

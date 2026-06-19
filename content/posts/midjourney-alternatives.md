@@ -61,7 +61,7 @@ The standout for **readable text** inside images — posters, logos, graphics wi
 
 Popular with game artists and designers for asset generation and fine control.
 
-> **Our take:** there isn't one "Midjourney killer" — there's a better tool *for your specific need*. Most people don't need Midjourney's art-first polish; they need easy (ChatGPT), safe (Firefly), or free (Stable Diffusion). Match the tool to the job.
+There isn't one "Midjourney killer" — there's a better tool *for your specific need*. Most people don't need Midjourney's art-first polish; they need easy (ChatGPT), safe (Firefly), or free (Stable Diffusion). Match the tool to the job.
 
 ## How to choose
 

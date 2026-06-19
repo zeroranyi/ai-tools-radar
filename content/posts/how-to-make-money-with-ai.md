@@ -51,7 +51,7 @@ A niche content site or a useful digital product (templates, prompt packs, tools
 
 The most underrated method: AI makes you more productive at the job or business you already have. That's real value, immediately.
 
-> **The reality check no hustle-guru gives you:** the people making money "with AI" are almost always people who were already good at something and used AI to scale it. Starting from no skill and no audience, AI doesn't shortcut the hard part — building something people actually want. Pick a real skill or problem first; let AI be the multiplier, not the plan.
+The people making money "with AI" are almost always people who were already good at something and used AI to scale it. Starting from no skill and no audience, AI doesn't shortcut the hard part — building something people actually want. Pick a real skill or problem first; let AI be the multiplier, not the plan.
 
 ## Bottom line
 

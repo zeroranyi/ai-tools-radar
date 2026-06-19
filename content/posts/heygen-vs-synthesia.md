@@ -55,7 +55,7 @@ Both HeyGen and Synthesia turn a script into a video of an AI presenter — no c
 - You want **custom avatars** and quick personalization
 - Speed and flexibility matter more than corporate polish
 
-> **Our take:** the deciding question is "training video or marketing video?" Synthesia grew up serving L&D teams and it shows in the polish; HeyGen leans into speed and personalization that social and marketing creators love. Match the tool to the kind of video you actually publish, not the longer feature list.
+The deciding question is "training video or marketing video?" Synthesia grew up serving L&D teams and it shows in the polish; HeyGen leans into speed and personalization that social and marketing creators love. Match the tool to the kind of video you actually publish, not the longer feature list.
 
 ## How to choose
 

@@ -51,7 +51,7 @@ Because the answer is *generated*, it can still be wrong even with good sources.
 | Effort | You read & decide | Answer up front |
 | Risk | Wrong link | Wrong synthesis (verify) |
 
-> **What this means if you publish online:** getting *cited* in AI answers is the new version of ranking. AI engines pull from content they can confidently extract — clear direct answers, data, clean structure, trustworthy sourcing. Optimizing for that is GEO (generative engine optimization). Understanding that AI search *retrieves then writes* explains both why citations exist and why structured, sourced content gets surfaced.
+Getting *cited* in AI answers is the new version of ranking. AI engines pull from content they can confidently extract — clear direct answers, data, clean structure, trustworthy sourcing. Optimizing for that is GEO (generative engine optimization). Understanding that AI search *retrieves then writes* explains both why citations exist and why structured, sourced content gets surfaced.
 
 ## Bottom line
 

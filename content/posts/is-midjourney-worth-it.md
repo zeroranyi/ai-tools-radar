@@ -50,7 +50,7 @@ Midjourney makes gorgeous images — that's not in dispute. The real question is
 | Free & controllable | Stable Diffusion / Flux |
 | Commercial safety | Adobe Firefly |
 
-> **Watch out for:** licensing. The prettiest image is worthless for business if you can't legally use it. If outputs are for a client or product, check Midjourney's license tier — or default to Firefly, which is designed for exactly this.
+The catch is licensing. The prettiest image is worthless for business if you can't legally use it. If outputs are for a client or product, check Midjourney's license tier — or default to Firefly, which is designed for exactly this.
 
 ## The verdict
 

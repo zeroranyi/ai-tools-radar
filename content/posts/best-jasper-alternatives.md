@@ -56,7 +56,7 @@ The closest **marketing-specific** alternative: templates and copy at a friendli
 
 Good if your content is **SEO-focused** and you want marketing templates with a search slant.
 
-> **Our take:** most people shopping for a Jasper alternative discover they didn't need a marketing-specific tool at all — they needed *good copy at a fair price*, which a general assistant delivers. Only keep paying for marketing-specific software (Jasper, Copy.ai) if **brand voice consistency and team workflows** are genuinely worth it to you. Otherwise, ChatGPT or Claude is the cheaper, more flexible move.
+Most people shopping for a Jasper alternative discover they didn't need a marketing-specific tool at all — they needed *good copy at a fair price*, which a general assistant delivers. Only keep paying for marketing-specific software (Jasper, Copy.ai) if **brand voice consistency and team workflows** are genuinely worth it to you. Otherwise, ChatGPT or Claude is the cheaper, more flexible move.
 
 ## How to choose
 

@@ -54,7 +54,7 @@ The differences are real but **incremental** — this isn't a capability gulf, i
 - You prefer a **clean, streamlined** agentic experience
 - You want to compare before committing to the popular default
 
-> **Our take:** with two tools this close, don't agonize — the decision is genuinely "which one feels better under your fingers." Because both are VS Code-based, switching costs are low. Spend a day in each on the *same* real task and pick the one that disappears into your flow. There's no wrong answer here, only a personal one.
+With two tools this close, don't agonize — the decision is genuinely "which one feels better under your fingers." Because both are VS Code-based, switching costs are low. Spend a day in each on the *same* real task and pick the one that disappears into your flow. There's no wrong answer here, only a personal one.
 
 ## How to choose
 

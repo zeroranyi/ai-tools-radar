@@ -56,7 +56,7 @@ Raw AI drafts are generic because the AI doesn't have *your* experience. Make it
 | Risk of being unhelpful | Genuinely useful |
 | Ranks poorly | Has a real shot |
 
-> **The mistake that wastes the whole effort:** treating the AI draft as the finish line instead of the starting line. Google's helpful-content systems and readers both punish generic AI filler. The post that ranks is the one where AI did the grunt work and *you* added the experience, examples and voice only you have. AI gets you a fast 70%; the human 30% is the part that earns the ranking and the trust.
+Treating the AI draft as the finish line instead of the starting line. Google's helpful-content systems and readers both punish generic AI filler. The post that ranks is the one where AI did the grunt work and *you* added the experience, examples and voice only you have. AI gets you a fast 70%; the human 30% is the part that earns the ranking and the trust.
 
 ## Bottom line
 

@@ -51,7 +51,7 @@ Copilot stays inside the editor you already use and provides fast **inline autoc
 
 For genuinely hard problems, debugging, or planning a big refactor, a chat assistant like Claude (or ChatGPT) lets you **think out loud** with an AI that has long context. Many developers pair this with Cursor or Copilot.
 
-> **Our take:** these aren't strictly competitors — the best setup is often *two* of them: an in-editor tool (Cursor or Copilot) for day-to-day coding, plus a chat assistant (Claude) for the gnarly problems. Don't expect one tool to do both jobs perfectly.
+These aren't strictly competitors — the best setup is often *two* of them: an in-editor tool (Cursor or Copilot) for day-to-day coding, plus a chat assistant (Claude) for the gnarly problems. Don't expect one tool to do both jobs perfectly.
 
 ## How to choose
 

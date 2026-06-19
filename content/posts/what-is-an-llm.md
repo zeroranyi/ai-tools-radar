@@ -47,7 +47,7 @@ That's it. The fluency is real; the "understanding" is statistical pattern-match
 - **Math and precision** — exactness isn't their native strength
 - **True reasoning** — they approximate it; complex logic can break down
 
-> **The mental model that fixes 90% of confusion:** an LLM is not a database you query for facts — it's a *prediction engine* for likely text. Once you internalize that, hallucinations stop being surprising and you start verifying important claims automatically. This is also why tools add RAG and web search: to ground the predictions in real sources.
+An LLM is not a database you query for facts — it's a *prediction engine* for likely text. Once you internalize that, hallucinations stop being surprising and you start verifying important claims automatically. This is also why tools add RAG and web search: to ground the predictions in real sources.
 
 ## Bottom line
 

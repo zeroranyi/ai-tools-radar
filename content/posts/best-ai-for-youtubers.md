@@ -57,7 +57,7 @@ Descript lets you **edit video by editing text** and cleans up filler words auto
 
 Turn one long video into a batch of **short clips** for Shorts, Reels and TikTok automatically — the highest-leverage way to multiply your output.
 
-> **The creator trap:** subscribing to every shiny AI tool and spending more time managing software than making videos. The disciplined move is to identify your single biggest bottleneck — usually editing or repurposing — and add *one* tool for it. A general assistant plus your editor covers most creators; everything else is situational.
+Subscribing to every shiny AI tool and spending more time managing software than making videos. The disciplined move is to identify your single biggest bottleneck — usually editing or repurposing — and add *one* tool for it. A general assistant plus your editor covers most creators; everything else is situational.
 
 ## How to build your stack
 

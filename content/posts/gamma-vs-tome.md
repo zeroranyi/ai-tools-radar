@@ -55,7 +55,7 @@ Both Gamma and Tome turn a prompt into a presentation in seconds, but they suit 
 - You want **design-forward** output
 - Narrative flow is the priority
 
-> **The reality of AI decks:** both get you to a *draft* fast, and both still need your editing to be presentation-ready — AI doesn't know your specific data, audience or argument. Gamma wins on "get a solid editable deck quickly for everyday work"; Tome wins on "make something visually memorable for a pitch." Judge by the deck you make most often.
+Both get you to a *draft* fast, and both still need your editing to be presentation-ready — AI doesn't know your specific data, audience or argument. Gamma wins on "get a solid editable deck quickly for everyday work"; Tome wins on "make something visually memorable for a pitch." Judge by the deck you make most often.
 
 ## How to choose
 

@@ -49,7 +49,7 @@ Drafting emails, documents and summaries with a general assistant requires zero 
 
 Once comfortable, use **Zapier or Make** to automate multi-step processes — e.g. "new form submission → summarize → log it → notify me." This is where bigger time savings come from.
 
-> **The mindset that protects your career:** automate the *busywork*, invest the saved time in the *valuable work*. AI rarely replaces a whole job, but it does replace people who refuse to use it with people who do. The winners use AI to clear the repetitive 50% of their week and pour that time into judgment, strategy, relationships and creative work — the things AI can't do and that make you harder to replace. Automation is a promotion strategy, not a redundancy risk, if you use the freed time well.
+Automate the *busywork*, invest the saved time in the *valuable work*. AI rarely replaces a whole job, but it does replace people who refuse to use it with people who do. The winners use AI to clear the repetitive 50% of their week and pour that time into judgment, strategy, relationships and creative work — the things AI can't do and that make you harder to replace. Automation is a promotion strategy, not a redundancy risk, if you use the freed time well.
 
 ## Bottom line
 

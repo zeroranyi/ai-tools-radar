@@ -55,7 +55,7 @@ If you spend your day in Gmail, Docs and Sheets, the Gemini vs ChatGPT question 
 - You need the **broadest features** (images, voice, ecosystem)
 - You want the most capable all-round assistant regardless of platform
 
-> **Our take:** for a committed Google Workspace user, the integration is worth more than a small capability edge. The time saved by *not* shuttling text between apps adds up fast. But if Google is just one of many tools you use, don't pick Gemini for integration you won't lean on — ChatGPT's versatility serves you better.
+For a committed Google Workspace user, the integration is worth more than a small capability edge. The time saved by *not* shuttling text between apps adds up fast. But if Google is just one of many tools you use, don't pick Gemini for integration you won't lean on — ChatGPT's versatility serves you better.
 
 ## How to choose
 

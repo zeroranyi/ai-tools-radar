@@ -56,7 +56,7 @@ Zapier and Make both connect your apps and automate workflows, increasingly with
 - You want **more power** and a visual builder
 - You're **cost-conscious** at higher volumes
 
-> **The cost trap to watch:** Zapier's per-task pricing is fine at low volume but can balloon as your automations fire thousands of times. Make's operations-based model usually wins on cost once you scale. So the real question is "simple and few automations" (Zapier) vs "complex or high-volume" (Make). Many start on Zapier for ease and migrate to Make when volume makes the bill sting.
+Zapier's per-task pricing is fine at low volume but can balloon as your automations fire thousands of times. Make's operations-based model usually wins on cost once you scale. So the real question is "simple and few automations" (Zapier) vs "complex or high-volume" (Make). Many start on Zapier for ease and migrate to Make when volume makes the bill sting.
 
 ## How to choose
 

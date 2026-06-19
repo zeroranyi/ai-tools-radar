@@ -53,7 +53,7 @@ All are **free, open-weight** models you can download and run.
 
 Both let you download and run these models locally in minutes.
 
-> **The advice that saves frustration:** start with a *small* model. Beginners grab the biggest one, watch it crawl or crash, and conclude "local LLMs aren't ready." A well-chosen small model runs smoothly on a normal laptop and handles most everyday tasks. Confirm your workflow on something fast, then size up only if you genuinely need more quality and your hardware can take it. Smooth and small beats sluggish and large.
+Start with a *small* model. Beginners grab the biggest one, watch it crawl or crash, and conclude "local LLMs aren't ready." A well-chosen small model runs smoothly on a normal laptop and handles most everyday tasks. Confirm your workflow on something fast, then size up only if you genuinely need more quality and your hardware can take it. Smooth and small beats sluggish and large.
 
 ## Bottom line
 

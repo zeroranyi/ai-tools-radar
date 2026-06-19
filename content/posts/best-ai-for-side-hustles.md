@@ -50,7 +50,7 @@ A general assistant helps you **draft, edit and deliver** client work or content
 
 Businesses pay for **AI setup** — automations, chatbots, prompt workflows. If you learn these, that's a real, in-demand side hustle.
 
-> **The reality check that saves you months:** AI doesn't create demand — it amplifies your ability to *meet* demand. The side hustles that work are the ones where you already have (or build) a real skill or offer people want; AI just lets you produce more, faster, and compete on speed. Anyone selling "passive AI income" is usually selling the course. Pick a real service or product first, then let AI be the multiplier that makes it scalable.
+AI doesn't create demand — it amplifies your ability to *meet* demand. The side hustles that work are the ones where you already have (or build) a real skill or offer people want; AI just lets you produce more, faster, and compete on speed. Anyone selling "passive AI income" is usually selling the course. Pick a real service or product first, then let AI be the multiplier that makes it scalable.
 
 ## How to start
 

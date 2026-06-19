@@ -49,7 +49,7 @@ This is exactly step one of **RAG**: retrieve the most relevant passages, then f
 | Thousands+ of documents | Yes — for fast similarity search |
 | "Chat with my knowledge base" | Usually yes |
 
-> **The trap beginners fall into:** reaching for a vector database on day one. If you only have a few documents, you may not need one at all — plain search or in-memory similarity is simpler and cheaper. Add a vector database when scale (lots of documents, fast retrieval) actually demands it. Tooling first, problem second is how projects get over-engineered.
+Reaching for a vector database on day one. If you only have a few documents, you may not need one at all — plain search or in-memory similarity is simpler and cheaper. Add a vector database when scale (lots of documents, fast retrieval) actually demands it. Tooling first, problem second is how projects get over-engineered.
 
 ## Bottom line
 

@@ -62,7 +62,7 @@ DeepSeek offers strong performance at no cost, making it the go-to when budget i
 
 Tied into X (Twitter), Grok leans into real-time and current-events queries with a distinct personality.
 
-> **Our take:** stop looking for a single "ChatGPT killer." The smart move is to match the tool to the task — Claude to write, Perplexity to research, Gemini inside Google. Most power users rotate between two or three.
+Stop looking for a single "ChatGPT killer." The smart move is to match the tool to the task — Claude to write, Perplexity to research, Gemini inside Google. Most power users rotate between two or three.
 
 ## How to choose
 

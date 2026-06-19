@@ -56,7 +56,7 @@ Both tools speed up coding with AI, but they take different approaches. One rein
 - You mostly want fast, inline suggestions
 - You value a minimal, familiar workflow
 
-> **Our take:** the deciding question isn't "which is smarter" — both are capable. It's "do you want a new editor or an upgrade to your current one?" Teams doing heavy refactoring lean Cursor; developers who love their existing setup lean Copilot.
+The deciding question isn't "which is smarter" — both are capable. It's "do you want a new editor or an upgrade to your current one?" Teams doing heavy refactoring lean Cursor; developers who love their existing setup lean Copilot.
 
 ## The verdict
 

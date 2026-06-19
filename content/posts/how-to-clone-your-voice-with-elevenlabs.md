@@ -55,7 +55,7 @@ Only clone a voice you **own** or have **explicit permission** to use. Cloning s
 
 Narration, audiobooks, content voiceover, dubbing, and accessibility (e.g. preserving your own voice). 
 
-> **The ethics line, plainly:** the technology is neutral; the use isn't. Clone your own voice freely, get written permission for anyone else's, never use a clone to deceive or impersonate, and disclose AI voice where it matters. The tools now ship with consent checks for a reason — respect them, and voice cloning is genuinely useful rather than a liability.
+The technology is neutral; the use isn't. Clone your own voice freely, get written permission for anyone else's, never use a clone to deceive or impersonate, and disclose AI voice where it matters. The tools now ship with consent checks for a reason — respect them, and voice cloning is genuinely useful rather than a liability.
 
 ## Bottom line
 

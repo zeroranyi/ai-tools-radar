@@ -50,7 +50,7 @@ The one-word difference is **autonomy**: a chatbot replies, an agent *does*.
 - **Research agents** that browse and synthesize sources
 - **Workflow agents** that connect apps to finish a multi-step task
 
-> **The honest take most hype skips:** agents are powerful but *fragile*. Because they chain many steps, a small early mistake can compound into a useless result. In 2026 they shine on well-scoped tasks with guardrails and a human checking the output — not on unsupervised, high-stakes autonomy. Treat "fully autonomous agent" claims with healthy skepticism.
+Agents are powerful but *fragile*. Because they chain many steps, a small early mistake can compound into a useless result. In 2026 they shine on well-scoped tasks with guardrails and a human checking the output — not on unsupervised, high-stakes autonomy. Treat "fully autonomous agent" claims with healthy skepticism.
 
 ## Bottom line
 

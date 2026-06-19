@@ -47,7 +47,7 @@ A rough guide: a few thousand characters ≈ a short narration; a long video or 
 - **Commercial rights** (essential if you monetize)
 - Priority and team features at the top
 
-> **The gotcha that catches creators:** running out of characters mid-project. Because billing is volume-based, under-estimating your monthly audio means hitting a wall or paying overage. Track how many characters a typical project uses for a month, *then* pick a tier with headroom. And if you monetize, confirm your plan includes commercial rights — the cheapest tiers may not.
+Running out of characters mid-project. Because billing is volume-based, under-estimating your monthly audio means hitting a wall or paying overage. Track how many characters a typical project uses for a month, *then* pick a tier with headroom. And if you monetize, confirm your plan includes commercial rights — the cheapest tiers may not.
 
 ## Bottom line
 

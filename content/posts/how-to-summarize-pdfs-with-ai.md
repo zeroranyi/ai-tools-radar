@@ -59,7 +59,7 @@ Once summarized, ask follow-ups — "expand on point 3," "what does it say about
 | General PDF Q&A | ChatGPT |
 | Many documents at once | A RAG-based tool |
 
-> **The accuracy habit that saves you:** treat an AI summary as a *fast first pass*, never the final word — especially for contracts, research or anything you'll act on. AI can quietly drop a key caveat or misstate a number. Asking it to quote the exact passage behind each important point turns a vague summary into something you can verify in seconds. Speed plus a spot-check beats blind trust.
+Treat an AI summary as a *fast first pass*, never the final word — especially for contracts, research or anything you'll act on. AI can quietly drop a key caveat or misstate a number. Asking it to quote the exact passage behind each important point turns a vague summary into something you can verify in seconds. Speed plus a spot-check beats blind trust.
 
 ## Bottom line
 

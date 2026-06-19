@@ -51,7 +51,7 @@ Fireflies shines when you want notes to **flow into your other tools** — CRMs,
 
 If your team already runs on Notion, keeping meeting notes (and their AI summaries) **inside the same workspace** removes the copy-paste step entirely.
 
-> **What actually matters when choosing:** not the feature list, but two things — *which meeting platform you use* (make sure it's supported) and *where you want the notes to end up*. Match those two and the rest is detail.
+What actually matters when choosing isn't the feature list, but two things — *which meeting platform you use* (make sure it's supported) and *where you want the notes to end up*. Match those two and the rest is detail.
 
 ## How to choose
 

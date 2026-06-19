@@ -55,7 +55,7 @@ AI music generation has two clear leaders, and they lean in different directions
 - You want **more control** over the composition
 - You're willing to spend a bit more time per track
 
-> **Watch out for:** licensing if you plan to publish. AI music is fun until you try to monetize a track and discover the commercial terms don't cover your use. Before releasing anything on YouTube, ads or streaming, check the commercial-use rights for your specific subscription tier on each tool.
+Licensing if you plan to publish. AI music is fun until you try to monetize a track and discover the commercial terms don't cover your use. Before releasing anything on YouTube, ads or streaming, check the commercial-use rights for your specific subscription tier on each tool.
 
 ## How to choose
 

@@ -55,7 +55,7 @@ Both Ollama and LM Studio let you run AI models on your own machine — privatel
 - You want to **browse and try models** visually
 - You're newer to local LLMs
 
-> **The honest shortcut:** they're not really competing for the same person. If the word "terminal" makes you uneasy, use LM Studio — you'll be chatting with a local model in minutes. If you're a developer who'll script or integrate it, Ollama's CLI and API are exactly what you want. Pick by *who you are*, not by feature count.
+They're not really competing for the same person. If the word "terminal" makes you uneasy, use LM Studio — you'll be chatting with a local model in minutes. If you're a developer who'll script or integrate it, Ollama's CLI and API are exactly what you want. Pick by *who you are*, not by feature count.
 
 ## How to choose
 

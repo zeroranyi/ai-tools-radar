@@ -55,7 +55,7 @@ Grok and ChatGPT take different personalities and priorities. Here's how they co
 - You value the **biggest feature set** and ecosystem
 - Consistency matters more than personality
 
-> **Our take:** Grok's pitch is personality and real-time, and for X power users that's a genuine draw. But for most people doing actual work — writing, coding, research — ChatGPT's polish and breadth win. Pick Grok if its specific strengths (real-time, X, attitude) are *the* thing you want; otherwise ChatGPT is the safer daily driver.
+Grok's pitch is personality and real-time, and for X power users that's a genuine draw. But for most people doing actual work — writing, coding, research — ChatGPT's polish and breadth win. Pick Grok if its specific strengths (real-time, X, attitude) are *the* thing you want; otherwise ChatGPT is the safer daily driver.
 
 ## How to choose
 

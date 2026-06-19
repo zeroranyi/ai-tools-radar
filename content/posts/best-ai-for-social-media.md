@@ -56,7 +56,7 @@ A general assistant generates **captions, hooks and content ideas** at volume �
 
 AI features in **schedulers** suggest times, draft captions and help you batch — so you plan once and publish all week.
 
-> **The mistake that tanks AI social content:** posting generic, obviously-AI captions. Audiences scroll past bland, and algorithms favor content that earns engagement — which generic posts don't. Use AI to *beat the blank page and produce volume*, then add your specific take, story or hook. The winning workflow is AI for the first draft and quantity, you for the authentic voice that actually connects. Volume without voice is just noise.
+Posting generic, obviously-AI captions. Audiences scroll past bland, and algorithms favor content that earns engagement — which generic posts don't. Use AI to *beat the blank page and produce volume*, then add your specific take, story or hook. The winning workflow is AI for the first draft and quantity, you for the authentic voice that actually connects. Volume without voice is just noise.
 
 ## How to start
 

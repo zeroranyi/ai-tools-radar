@@ -55,7 +55,7 @@ Descript and CapCut both use AI to speed up editing, but they're built for diffe
 - You want **fast captions, effects and templates**
 - Visual flair and trends matter
 
-> **The clarifying question:** is your video mostly *someone talking* or mostly *visual/social*? Descript turns talking into an editable document — unbeatable for podcasts and tutorials. CapCut turns clips into punchy social videos — unbeatable for TikTok-style content. Pick by the *kind of video*, and the choice is obvious.
+Is your video mostly *someone talking* or mostly *visual/social*? Descript turns talking into an editable document — unbeatable for podcasts and tutorials. CapCut turns clips into punchy social videos — unbeatable for TikTok-style content. Pick by the *kind of video*, and the choice is obvious.
 
 ## How to choose
 

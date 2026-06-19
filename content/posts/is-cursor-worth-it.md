@@ -44,7 +44,7 @@ Most AI coding tools autocomplete the line you're on. Cursor's edge is **whole-c
 - You're happy with plain autocomplete (Copilot or the free tier)
 - You're a student learning fundamentals (AI can short-circuit learning)
 
-> **Watch out for:** over-reliance. Cursor is fastest for people who already know what good code looks like and can review AI edits critically. If you can't spot a bad suggestion, the speed becomes a liability.
+The main risk is over-reliance. Cursor is fastest for people who already know what good code looks like and can review AI edits critically. If you can't spot a bad suggestion, the speed becomes a liability.
 
 ## Cursor vs the free alternatives
 

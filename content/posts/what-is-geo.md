@@ -24,7 +24,7 @@ faq:
 
 ## What is GEO?
 
-**Generative Engine Optimization (GEO)** is the practice of creating and structuring content so that AI search engines — ChatGPT, Perplexity, Google AI Overviews, Claude and others — cite it, quote it, and fold it into the answers they generate. The term comes from a 2023 research paper that studied what makes AI engines pick one source over another.
+**Generative Engine Optimization (GEO)** is the practice of creating and structuring content so that AI search engines — ChatGPT, Perplexity, Google AI Overviews, Claude and others — cite it, quote it, and fold it into the answers they generate. The term was popularized by research around 2023 studying what makes AI engines pick one source over another.
 
 Traditional SEO chases a ranking and a click. GEO chases something different: **being the source the AI trusts enough to repeat.**
 
@@ -41,7 +41,7 @@ The two overlap on fundamentals — technical health, trustworthy content, and s
 
 ## How generative engines pick sources
 
-AI engines synthesize answers from content they can confidently extract and attribute. The original GEO research found that adding **citations, statistics and authoritative quotations** measurably increased how often content was included in AI answers — while keyword stuffing did almost nothing.
+AI engines synthesize answers from content they can confidently extract and attribute. Early research on GEO suggested that adding **citations, statistics and authoritative quotations** can increase how often content is included in AI answers — while keyword stuffing does little. Treat these as directional best practices rather than guaranteed levers, since engines change constantly.
 
 In other words: AI engines reward content that *reads like a reliable source*, not content that games keywords.
 

@@ -45,7 +45,7 @@ Claude has a reputation for the most natural writing and careful reasoning of th
 | Large documents/projects | Limited | Strong |
 | Priority at peak times | No | Yes |
 
-> **Our take:** Claude Pro is the connoisseur's pick. If you care about *how the writing reads* or you routinely feed it long documents, it's the best $20 in AI. If you want images, voice and the widest toolset, ChatGPT Plus is the more versatile spend.
+Claude Pro is the connoisseur's pick. If you care about *how the writing reads* or you routinely feed it long documents, it's the best $20 in AI. If you want images, voice and the widest toolset, ChatGPT Plus is the more versatile spend.
 
 ## Claude Pro vs ChatGPT Plus
 

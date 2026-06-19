@@ -48,7 +48,7 @@ HeyGen turns a script into a talking-head avatar video — no camera, studio or 
 - **Localized** versions in multiple languages
 - **Faceless** channels and consistent on-brand presenters
 
-> **The consent rule you must not skip:** only create custom avatars of **yourself or people who have explicitly agreed**. Generating a video of someone's likeness without permission isn't just against the rules — it can be illegal and cause real harm. HeyGen builds in consent checks for exactly this reason. Used ethically, AI avatars are a genuine production shortcut; used carelessly, they're a liability.
+Only create custom avatars of **yourself or people who have explicitly agreed**. Generating a video of someone's likeness without permission isn't just against the rules — it can be illegal and cause real harm. HeyGen builds in consent checks for exactly this reason. Used ethically, AI avatars are a genuine production shortcut; used carelessly, they're a liability.
 
 ## Bottom line
 

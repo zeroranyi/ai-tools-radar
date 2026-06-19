@@ -53,7 +53,7 @@ Perplexity and Google answer the same impulse — "I want to know something" —
 | Local / maps / shopping | Google |
 | Browse many sources | Google |
 
-> **Our take:** the smart behavior emerging in 2026 is *both, by intent*. When you want to be **answered**, open Perplexity — it's faster and shows its sources. When you want to **browse, buy, or go somewhere**, Google still owns that. Treating it as "which one replaces the other" misses that they're optimized for different verbs.
+The smart behavior emerging in 2026 is *both, by intent*. When you want to be **answered**, open Perplexity — it's faster and shows its sources. When you want to **browse, buy, or go somewhere**, Google still owns that. Treating it as "which one replaces the other" misses that they're optimized for different verbs.
 
 ## Bottom line
 

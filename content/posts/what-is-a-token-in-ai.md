@@ -47,7 +47,7 @@ Two big reasons:
 
 ## Why this is worth understanding
 
-> **The practical payoff:** once you think in tokens, two things click. First, *why long chats slow down and lose track* — you're filling the context budget, and old turns drop off. Second, *how to control API costs* — trim bloated prompts, don't paste huge documents you don't need, and ask for concise output. People who ignore tokens get surprise bills and "the AI forgot what I said" frustration; people who get it avoid both.
+Once you think in tokens, two things click. First, *why long chats slow down and lose track* — you're filling the context budget, and old turns drop off. Second, *how to control API costs* — trim bloated prompts, don't paste huge documents you don't need, and ask for concise output. People who ignore tokens get surprise bills and "the AI forgot what I said" frustration; people who get it avoid both.
 
 ## Bottom line
 

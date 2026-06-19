@@ -50,7 +50,7 @@ No-code platforms just give you a visual way to assemble these.
 
 Don't start with "automate everything." Start with something like: *"Answer customer questions using our FAQ doc"* or *"Summarize new articles on a topic each morning."* Narrow, checkable, low-risk.
 
-> **The mistake that kills no-code agents:** giving them a big, fuzzy goal and walking away. Agents chain many steps, so a small early error snowballs into nonsense. The people who succeed start with one tightly-scoped task, watch it closely, and only widen the scope once it's reliable. Treat your agent like a new intern, not an autopilot.
+Giving them a big, fuzzy goal and walking away. Agents chain many steps, so a small early error snowballs into nonsense. The people who succeed start with one tightly-scoped task, watch it closely, and only widen the scope once it's reliable. Treat your agent like a new intern, not an autopilot.
 
 ## Bottom line
 

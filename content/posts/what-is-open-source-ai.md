@@ -53,7 +53,7 @@ This contrasts with **closed models** (like GPT) that you can only access throug
 - **Top capability** may trail the best closed models
 - **Support** is community-based, not a vendor SLA
 
-> **The real decision:** open-source AI isn't "better" or "worse" — it's a different trade. You gain control, privacy and cost savings; you give up convenience and a bit of peak capability. Businesses with privacy requirements or high volume increasingly choose open models; people who just want the smartest model with zero setup stick with closed APIs. Match it to your constraints, not the ideology.
+Open-source AI isn't "better" or "worse" — it's a different trade. You gain control, privacy and cost savings; you give up convenience and a bit of peak capability. Businesses with privacy requirements or high volume increasingly choose open models; people who just want the smartest model with zero setup stick with closed APIs. Match it to your constraints, not the ideology.
 
 ## Bottom line
 

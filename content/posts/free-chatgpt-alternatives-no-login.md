@@ -54,7 +54,7 @@ These are **fast to start** and free. **DeepSeek** is strong and capable; **Perp
 | Usage limits | Higher limits |
 | No personalization | Tailored experience |
 
-> **The practical reality:** truly login-free AI usually means *basic* models and *no history* — fine for a one-off question, frustrating for ongoing work. If you'll use AI more than occasionally, a *free* signup (no credit card) to DeepSeek, Gemini or ChatGPT itself unlocks far more for the same $0. So: use no-login demos for quick throwaway questions, but don't avoid a free account if you actually want the good stuff — it costs nothing but a moment.
+Truly login-free AI usually means *basic* models and *no history* — fine for a one-off question, frustrating for ongoing work. If you'll use AI more than occasionally, a *free* signup (no credit card) to DeepSeek, Gemini or ChatGPT itself unlocks far more for the same $0. So: use no-login demos for quick throwaway questions, but don't avoid a free account if you actually want the good stuff — it costs nothing but a moment.
 
 ## Bottom line
 

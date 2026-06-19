@@ -51,7 +51,7 @@ Copilot keeps you in the editor you already use and focuses on **inline autocomp
 
 For genuinely hard problems, a chat assistant like Claude lets you **think through** a refactor or bug with long context. Many developers pair it with an in-editor tool.
 
-> **Our take:** the real choice is *editor vs plugin*. If you loved Cursor's all-in-one feel but want options, try Windsurf. If Cursor felt like too much change, Copilot gives you most of the benefit inside your familiar editor. Add Claude for the thinking-heavy work either way.
+The real choice is *editor vs plugin*. If you loved Cursor's all-in-one feel but want options, try Windsurf. If Cursor felt like too much change, Copilot gives you most of the benefit inside your familiar editor. Add Claude for the thinking-heavy work either way.
 
 ## How to choose
 

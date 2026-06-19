@@ -49,7 +49,7 @@ An AI chatbot can answer your visitors' questions around the clock — and you c
 | "Where's my order?" | Sensitive issues |
 | Product basics | High-value sales |
 
-> **The detail that decides whether visitors love or hate your bot:** an easy escape hatch to a human. Nothing frustrates people more than a chatbot that loops on a question it can't answer with no way out. Build the bot to **confidently handle the common 70%** and **gracefully hand off the rest** — "Let me connect you with someone." A bot that knows its limits earns trust; one that traps people in dead ends costs you customers.
+An easy escape hatch to a human. Nothing frustrates people more than a chatbot that loops on a question it can't answer with no way out. Build the bot to **confidently handle the common 70%** and **gracefully hand off the rest** — "Let me connect you with someone." A bot that knows its limits earns trust; one that traps people in dead ends costs you customers.
 
 ## Bottom line
 

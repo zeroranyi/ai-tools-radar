@@ -45,7 +45,7 @@ A RAG chatbot answers questions from **your own documents** — perfect for supp
 - **Ask it to cite sources** so users can verify
 - **Test edge cases** — questions your docs don't cover
 
-> **The mistake that wrecks no-code RAG bots:** dumping in disorganized or outdated documents and expecting magic. RAG only answers as well as the content you feed it. Spend your effort on *curating clean, current source documents* — that matters far more than which platform you pick. Garbage in, confidently-wrong out.
+Dumping in disorganized or outdated documents and expecting magic. RAG only answers as well as the content you feed it. Spend your effort on *curating clean, current source documents* — that matters far more than which platform you pick. Garbage in, confidently-wrong out.
 
 ## Bottom line
 
